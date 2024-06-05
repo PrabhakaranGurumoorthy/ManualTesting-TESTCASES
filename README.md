@@ -17,7 +17,7 @@ A test case in manual testing is a set of steps and expected outcomes that are u
 - Comments
 
 ## What I have done?
- I have created a comprehensive testcase for a E-commerence Website "Opencart" for various Test Scenario in the webiste.
+ I have created a comprehensive testcase for an e-commerce website, "Opencart," covering various test scenarios on the site
  - Register Functionality
  - Login Functionality
  - Logout Functionality
